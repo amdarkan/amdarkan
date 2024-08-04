@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @amdarkan
-- 👀 I’m interested in coding, football, and food ball (bakso) wkwkw
-- 🌱 I’m currently learning anything...
-- 📫 How to reach me ahmadarkan@outlook.com
+# 👋 Hi, I’m @amdarkan
+
+## About Me
+- 👀 Interested in coding, football, and enjoying some delicious bakso.
+- 🌱 Currently learning anything and everything tech-related.
+- 💻 Working as an IT Support and Programmer.
+- ✍️ I also love writing story dialogues.
+
+## How to Reach Me
+- 📫 Email: ahmadarkan@outlook.com
+- 🏡 Based in South Tangerang, Indonesia.
+
+## Fun Facts
+- I love experimenting with new technologies.
+- A big fan of local street food.
+- Always ready to help out fellow developers.
 
 <!---
 amdarkan/amdarkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
